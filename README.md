@@ -21,3 +21,5 @@ FinBotAI is a Streamlit-based AI assistant that processes financial news article
 - sentence-transformers
 - FAISS
 - ollama
+
+![FinBot](https://github.com/user-attachments/assets/af60bede-210c-4112-824b-cae4fa3b2eb6)
