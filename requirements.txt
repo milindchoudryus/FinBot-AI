@@ -1,7 +1,9 @@
 streamlit
-sentence-transformers
-langchain
+openai>=1.6.0
+langchain>=0.1.0
+langchain-openai>=0.0.6
+langchain-community>=0.0.26
 faiss-cpu
-ollama
-chromadb
-numpy
+yfinance
+python-dotenv
+pandas
